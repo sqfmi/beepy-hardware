@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "beepberry")(type "KiCad")(uri "${KIPRJMOD}/beepberry.kicad_sym")(options "")(descr ""))
+  (lib (name "Keyboard")(type "KiCad")(uri "${KIPRJMOD}/Keyboard.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi")(type "KiCad")(uri "${KIPRJMOD}/MCU_RaspberryPi.kicad_sym")(options "")(descr ""))
+  (lib (name "Memory_Flash_Extra")(type "KiCad")(uri "${KIPRJMOD}/Memory_Flash_Extra.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS61030PWPR")(type "KiCad")(uri "${KIPRJMOD}/TPS61030PWPR.kicad_sym")(options "")(descr ""))
+)
