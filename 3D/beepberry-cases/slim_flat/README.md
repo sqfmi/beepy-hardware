@@ -1,6 +1,7 @@
 # Simple slim, flat, minimal Case for the Beepberry
-
-
+![01](images/01.jpg | width=200) ![02](images/02.jpg | width=200)  
+![03](images/03.jpg | width=200) ![04](images/04.jpg | width=200)  
+  
 **Parts List**
 * Two printed parts
 * Two plastic screws - I used these: https://www.amazon.com/gp/product/B00GDYNJNM.  Maybe you can find silber buttonhead that match the m2.5 screws.
@@ -14,3 +15,12 @@
 * Press the case together.  The foam should compress without much force.  Be careful not to damage the battery.
 * Screw together.
 * That's it!
+  
+This end first:  
+![05](images/05.jpg | width=200)  
+  
+Cut the foam around the big chips so airflow isn't blocked for them:  
+![06](images/06.jpg | width=200)  
+  
+Battery on top:  
+![07](images/07.jpg | width=200)  
