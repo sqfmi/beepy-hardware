@@ -1,4 +1,4 @@
-# Simple slim, flat, minimal Case for the Beepberry
+# Slim, flat, minimal case for the Beepberry
 <img src=images/01.jpg width=200> <img src=images/02.jpg width=200>  
 <img src=images/03.jpg width=200> <img src=images/04.jpg width=200>  
   
