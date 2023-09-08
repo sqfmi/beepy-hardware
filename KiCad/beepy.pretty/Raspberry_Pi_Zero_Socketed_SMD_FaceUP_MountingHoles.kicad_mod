@@ -124,7 +124,7 @@
   (pad "38" smd rect (at 3.59 45.72) (size 3.7 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e069ba31-5860-4832-8331-2a171dcf0e1c))
   (pad "39" smd rect (at -1.05 48.26) (size 3.7 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3ec6d18f-f258-4cb1-9e64-3ae2cc0c2812))
   (pad "40" smd rect (at 3.59 48.26) (size 3.7 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0a7f3e41-7bff-4e72-a0be-9d82813177d0))
-  (model "${KIPRJMOD}/beepberry.pretty/3D/contacts.step"
+  (model "${KIPRJMOD}/beepy.pretty/3D/contacts.step"
     (offset (xyz 1.5 0 3.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

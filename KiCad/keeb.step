@@ -6261,16 +6261,16 @@ SOLID_ANGLE_UNIT()
 #6160=PRODUCT_DEFINITION_SHAPE('',$,#6163);
 #6161=SHAPE_REPRESENTATION('',(#3903),#6153);
 #6162=PRODUCT_DEFINITION_CONTEXT('part definition',#6167,'design');
-#6163=PRODUCT_DEFINITION('beepberrycase','beepberrycase v5',#6164,#6162);
+#6163=PRODUCT_DEFINITION('beepycase','beepycase v5',#6164,#6162);
 #6164=PRODUCT_DEFINITION_FORMATION('',$,#6169);
-#6165=PRODUCT_RELATED_PRODUCT_CATEGORY('beepberrycase v5','beepberrycase v5',
+#6165=PRODUCT_RELATED_PRODUCT_CATEGORY('beepycase v5','beepycase v5',
 (#6169));
 #6166=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#6167);
 #6167=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #6168=PRODUCT_CONTEXT('part definition',#6167,'mechanical');
-#6169=PRODUCT('beepberrycase','beepberrycase v5',$,(#6168));
+#6169=PRODUCT('beepycase','beepycase v5',$,(#6168));
 #6170=PRESENTATION_STYLE_ASSIGNMENT((#6171));
 #6171=SURFACE_STYLE_USAGE(.BOTH.,#6172);
 #6172=SURFACE_SIDE_STYLE('',(#6173));

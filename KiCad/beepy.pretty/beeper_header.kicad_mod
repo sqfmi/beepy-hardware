@@ -1,4 +1,4 @@
-(footprint "beepberry_header" (version 20211014) (generator pcbnew)
+(footprint "beepy_header" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 62B95114)
   (descr "JST SH series connector, SM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator")
@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 52f6ffa9-5c4c-4f56-b597-03a0d6903aa9)
   )
-  (fp_text value "beepberry_header" (at 0 3.98) (layer "F.Fab")
+  (fp_text value "beepy_header" (at 0 3.98) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp dbe91fae-ac1e-46eb-a0f2-f0dfff6a2010)
   )
@@ -182,7 +182,7 @@
   (pad "4" thru_hole circle (at 3.01 -0.278) (size 1.2 1.2) (drill 0.75) (layers *.Cu *.Mask) (tstamp 9238f278-e076-49d9-bce4-e6f17a8f646e))
   (pad "MP" smd roundrect (at 2.8 1.875) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp a789a1fe-792d-4a94-a7b6-fd3c46b1af70))
   (pad "MP" smd roundrect (at -2.8 1.875) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp cc6c3e3f-65ac-4f7d-ac20-a13420e44e7d))
-  (model "${KIPRJMOD}/beepberry.pretty/3D/qwicc.step"
+  (model "${KIPRJMOD}/beepy.pretty/3D/qwicc.step"
     (offset (xyz 0 1.2 -0.3))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

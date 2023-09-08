@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name "beepberry")(type "KiCad")(uri "${KIPRJMOD}/beepberry.pretty")(options "")(descr ""))
+  (version 7)
+  (lib (name "beepy")(type "KiCad")(uri "${KIPRJMOD}/beepy.pretty")(options "")(descr ""))
 )

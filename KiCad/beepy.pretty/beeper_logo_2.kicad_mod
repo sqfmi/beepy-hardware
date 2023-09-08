@@ -1,4 +1,4 @@
-(footprint "beepberry_logo_2" (version 20211014) (generator pcbnew)
+(footprint "beepy_logo_2" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
   (attr board_only exclude_from_pos_files exclude_from_bom)

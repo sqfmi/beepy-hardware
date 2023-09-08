@@ -29,7 +29,7 @@
   (fp_line (start -31.4 -19.64) (end 31.4 -19.64) (layer "F.Fab") (width 0.12) (tstamp af85d2f1-0a95-4326-a8f5-d4abec33b0ff))
   (fp_line (start 29.4 -17.64) (end 29.4 17.64) (layer "F.Fab") (width 0.01) (tstamp bda15ee9-b44d-4dc8-b2b1-024f6516d860))
   (fp_line (start -29.4 -17.64) (end 29.4 -17.64) (layer "F.Fab") (width 0.01) (tstamp dccf7f09-870a-430e-b3a5-d374b0951e63))
-  (model "${KIPRJMOD}/beepberry.pretty/3D/LS027B7DH01 LCD.stp"
+  (model "${KIPRJMOD}/beepy.pretty/3D/LS027B7DH01 LCD.stp"
     (offset (xyz 31.5 -23.5 1))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))

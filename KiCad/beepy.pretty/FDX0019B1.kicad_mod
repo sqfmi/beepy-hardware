@@ -15,7 +15,7 @@
     (tstamp 8c3aca2c-f3a8-46ef-b739-1ac1abfec24b)
   )
   (pad "1" smd rect (at 0 0) (size 2.5 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7bf10c8b-d3d6-4ed6-ba7e-03b4fd9ba329))
-  (model "${KIPRJMOD}/beepberry.pretty/3D/s7141-45.stp"
+  (model "${KIPRJMOD}/beepy.pretty/3D/s7141-45.stp"
     (offset (xyz 1.5 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))
